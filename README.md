@@ -26,10 +26,6 @@
 - THIRUMURTHY KP
 - VASANTHAKUMAR S
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-
 
 
 # REQUIRED SKILLS
